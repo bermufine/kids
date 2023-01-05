@@ -1,5 +1,5 @@
 # kids
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA5Mjk0ODRf/Junior.png","titleMoz":"JUNIOR TV"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Con TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://contvanime-tcl.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTU1Njhf/conTV.jpeg","titleMoz":"CON TV"},
 
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
