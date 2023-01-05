@@ -3,12 +3,16 @@
 
 {"descriptionMoz":"Super Toons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"SUPER TOON TV"},
 
-
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
+
+
+{"descriptionMoz":"Rakuten TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"RAKUTEN TV"},
+
+
+
+
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://45.126.83.51/dr9445/h/h02/01.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY JUNIOR TV"},
-
-
 
 {"descriptionMoz":"Persiana Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://51.210.199.18/hls/stream.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNzA3ODNf/persianajunior.jpg","titleMoz":"PERSIANA JUNIOR"},
 
