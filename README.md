@@ -5,12 +5,7 @@
 
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
-
-
 {"descriptionMoz":"Rakuten TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","titleMoz":"RAKUTEN TV"},
-
-
-
 
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://45.126.83.51/dr9445/h/h02/01.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY JUNIOR TV"},
 
@@ -22,4 +17,6 @@
 
 {"descriptionMoz":"Tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/tivi5_enc/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"TIVI 5"},
 
-{"descriptionMoz":"Kids Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzU1MTNf/nik.jpg","titleMoz":"KIDS JUNIOR"}]}]}
+{"descriptionMoz":"Kids Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzU1MTNf/nik.jpg","titleMoz":"KIDS JUNIOR"},
+
+{"descriptionMoz":"Watch It kids TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/cl/d9CqHkxGAirngok0q4cWK/314x234_447601_4_f.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzU1MTNf/nik.jpg","titleMoz":"WATCH IT KIDS"}]}]}
