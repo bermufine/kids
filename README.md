@@ -23,7 +23,7 @@
 
 {"descriptionMoz":"Watch It kids TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/cl/d9CqHkxGAirngok0q4cWK/314x234_447601_4_f.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY0NjQxNTlf/watchkids.jpg","titleMoz":"WATCH IT KIDS"},
 
-{"descriptionMoz":"Detskoe TV est une chaîne télévisée russe spécialisée aux enfants et autres.","sourceMoz":["http://193.111.244.35:8001/detskoe/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY0NjQxNTlf/watchkids.jpg","titleMoz":"DETSKOE TV"},
+{"descriptionMoz":"Detskoe TV est une chaîne télévisée russe spécialisée aux enfants et autres.","sourceMoz":["http://193.111.244.35:8001/detskoe/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjM0NTRf/detskoe.jpg","titleMoz":"DETSKOE TV"},
 
 {"descriptionMoz":"Multilandija It kids TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://193.111.244.35:8001/multilandija/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjI4NjRf/multilandija.jpg","titleMoz":"MULTILANDIJA TV"},
 
