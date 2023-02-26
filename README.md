@@ -5,6 +5,8 @@
 
 {"descriptionMoz":"Super Toons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"SUPER TOON TV"},
 
+{"descriptionMoz":"Mr Bean TV est une chaîne privée spécialisée aux enfants et autres.","sourceMoz":["http://51.159.104.29:8080/mrbean/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"MR BEAN TV"},
+
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
 {"descriptionMoz":"Rakuten TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","titleMoz":"RAKUTEN TV"},
