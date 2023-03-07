@@ -1,7 +1,7 @@
 # kids
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Davinci TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://193.111.244.35:8001/davinci/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjMwMTNf/davinci.png","titleMoz":"DAVINCI TV"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg","titleMoz":"RYAN AND FRIENDS TV"},
 
-{"descriptionMoz":"Con TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://contvanime-tcl.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTU1Njhf/conTV.jpeg","titleMoz":"CON TV"},
+{"descriptionMoz":"PBS KIDS TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTJf/pbskids.jpeg","titleMoz":"PBS KIDS TV"},
 
 {"descriptionMoz":"Super Toons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"SUPER TOON TV"},
 
