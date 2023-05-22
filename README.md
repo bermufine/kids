@@ -9,17 +9,17 @@
 
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
-{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TIJI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"TIJI TV"},
+{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TIJI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
 
-{"descriptionMoz":"Toonami television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TOONAMI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"TOONAMI TV"},
+{"descriptionMoz":"Toonami television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TOONAMI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"TOONAMI TV"},
 
-{"descriptionMoz":"Toonami television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/PIWI_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"PIWI PLUS TV"},
+{"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/PIWI_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS TV"},
 
-{"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TELETOON_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"TELETOON TV"},
+{"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TELETOON_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
 
-{"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/GULLI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"GULLI TV"},
+{"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/GULLI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
 
-{"descriptionMoz":"France 4 television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/FRANCE_4/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"FRANCE 4 TV"},
+{"descriptionMoz":"Okoo television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/FRANCE_4/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzNzlf/okoo.png","titleMoz":"OKOO TV"},
 
 {"descriptionMoz":"Rakuten TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","titleMoz":"RAKUTEN TV"},
 
@@ -31,19 +31,19 @@
 
 {"descriptionMoz":"Ketnet Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://210.210.155.35/qwr9ew/s/s50/index2.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"KETNET JUNIOR"},
 
-{"descriptionMoz":"Daney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/31/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"DESNEY JUNIOR TV"},
+{"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/31/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2NzRf/disneyjuniortwo.png","titleMoz":"DISNEY JUNIOR TV"},
 
-{"descriptionMoz":"Cartoon Network TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/34/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"CARTOON NETWORK"},
+{"descriptionMoz":"Cartoon Network TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/34/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2NTJf/cartoonNetworktwo.jpeg","titleMoz":"CARTOON NETWORK"},
 
-{"descriptionMoz":"Nicktoons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/50/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"NICKTOONS TV"},
+{"descriptionMoz":"Nicktoons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/50/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png","titleMoz":"NICKTOONS TV"},
 
-{"descriptionMoz":"Baby TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/61/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"BABY TV"},
+{"descriptionMoz":"Baby TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/61/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ1OTdf/babytv.jpeg","titleMoz":"BABY TV"},
 
-{"descriptionMoz":"Da Vinci TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/90/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"DA VINCI TV"},
+{"descriptionMoz":"Da Vinci TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["ttp://49.12.123.148:8989/90/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjMwMTNf/davinci.png","titleMoz":"DA VINCI TV"},
 
-{"descriptionMoz":"English Club TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/92/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"ENGLISH CLUB TV"},
+{"descriptionMoz":"English Club TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/92/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ1NjJf/englishclubhd.png","titleMoz":"ENGLISH CLUB TV"},
 
-{"descriptionMoz":"MoonBug TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/1012/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"MOONBUG TV"},
+{"descriptionMoz":"MoonBug TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/1012/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ1MzFf/moonbug.jpeg","titleMoz":"MOONBUG TV"},
 
 {"descriptionMoz":"Tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/tivi5_enc/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"TIVI 5"},
 
