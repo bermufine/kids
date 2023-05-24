@@ -11,7 +11,7 @@
 
 {"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TIJI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
 
-{"descriptionMoz":"Toonami television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TOONAMI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"TOONAMI TV"},
+{"descriptionMoz":"Toy Story television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://95.107.132.105/out/u/1014_2.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"TOY STORY TV"},
 
 {"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/PIWI_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS TV"},
 
