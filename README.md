@@ -29,7 +29,7 @@
 
 {"descriptionMoz":"Telesur Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNzA4NTVf/telesur.jpg","titleMoz":"TELESUR JUNIOR"},
 
-{"descriptionMoz":"Ketnet Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://210.210.155.35/qwr9ew/s/s50/index2.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"KETNET JUNIOR"},
+{"descriptionMoz":"Ketnet Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://190.61.91.101:1234/play/a00d/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"KETNET JUNIOR"},
 
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/31/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2NzRf/disneyjuniortwo.png","titleMoz":"DISNEY JUNIOR TV"},
 
