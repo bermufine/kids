@@ -1,6 +1,8 @@
 # kids
 {"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg","titleMoz":"RYAN AND FRIENDS TV"},
 
+{"descriptionMoz":"Kids Movies television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4371"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDS MOVIES"},
+
 {"descriptionMoz":"PBS KIDS TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTJf/pbskids.jpeg","titleMoz":"PBS KIDS TV"},
 
 {"descriptionMoz":"Super Toons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"SUPER TOON TV"},
@@ -10,8 +12,6 @@
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
 {"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TIJI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
-
-{"descriptionMoz":"Toy Story television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://95.107.132.105/out/u/1014_2.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"TOY STORY TV"},
 
 {"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.188.188.235/live/jimjam/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS TV"},
 
@@ -37,7 +37,7 @@
 
 {"descriptionMoz":"Nicktoons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/50/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png","titleMoz":"NICKTOONS TV"},
 
-{"descriptionMoz":"Baby TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/61/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ1OTdf/babytv.jpeg","titleMoz":"BABY TV"},
+{"descriptionMoz":"Baby TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4358"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ1OTdf/babytv.jpeg","titleMoz":"BABY TV"},
 
 {"descriptionMoz":"Da Vinci TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["ttp://49.12.123.148:8989/90/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjMwMTNf/davinci.png","titleMoz":"DA VINCI TV"},
 
