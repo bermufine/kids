@@ -1,5 +1,7 @@
 # kids
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg","titleMoz":"RYAN AND FRIENDS TV"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjM0NTRf/detskoe.jpg","titleMoz":"AFRO KIDS"},
+
+{"descriptionMoz":"Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg","titleMoz":"RYAN AND FRIENDS TV"},
 
 {"descriptionMoz":"Kids Movies television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4371"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDS MOVIES"},
 
@@ -50,8 +52,6 @@
 {"descriptionMoz":"Kids Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzU1MTNf/nik.jpg","titleMoz":"KIDS JUNIOR"},
 
 {"descriptionMoz":"Watch It kids TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/cl/d9CqHkxGAirngok0q4cWK/314x234_447601_4_f.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY0NjQxNTlf/watchkids.jpg","titleMoz":"WATCH IT KIDS"},
-
-{"descriptionMoz":"Detskoe TV est une chaîne télévisée russe spécialisée aux enfants et autres.","sourceMoz":["http://193.111.244.35:8001/detskoe/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY1NjM0NTRf/detskoe.jpg","titleMoz":"DETSKOE TV"},
 
 {"descriptionMoz":"Supertoons kids TV 1 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTc4MzVf/Supertoons1.jpg","titleMoz":"SUPERTOONS 1 TV"},
 
