@@ -27,10 +27,13 @@
 
 {"descriptionMoz":"Supertoons kids TV 1 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTc4MzVf/Supertoons1.jpg","titleMoz":"SUPERTOONS 1"},
 
-{"descriptionMoz":"Supertoons kids TV 2 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTc4MzZf/Supertoons2s.jpeg","titleMoz":"SUPERTOONS 2"}]}]}
+{"descriptionMoz":"Supertoons kids TV 2 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTc4MzZf/Supertoons2s.jpeg","titleMoz":"SUPERTOONS 2"},
+
+{"descriptionMoz":"NRJ 12 television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://livetv.ktv.zone/14/play.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk1MDM5ODNf/NRJ12HD.png","titleMoz":"NRJ 12 TV"}]}]}
 
 
 
+{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/14/play.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"NRJ 12 TV"},
 
 {"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TELETOON_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
 
