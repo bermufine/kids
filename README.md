@@ -5,7 +5,7 @@
 
 {"descriptionMoz":"Kids Movies television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4371"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDS MOVIES"},
 
-{"descriptionMoz":"PBS KIDS TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTJf/pbskids.jpeg","titleMoz":"PBS KIDS TV"},
+{"descriptionMoz":"DreamWorks TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-099/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTJf/pbskids.jpeg","titleMoz":"DREAMWORKS TV"},
 
 {"descriptionMoz":"Super Toons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTcxODhf/supertoon.jpeg","titleMoz":"SUPER TOON TV"},
 
@@ -15,13 +15,13 @@
 
 {"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TIJI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
 
-{"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.188.188.235/live/jimjam/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS TV"},
+{"descriptionMoz":"Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-112/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"NICKELODEON"},
 
-{"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TELETOON_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
+{"descriptionMoz":"Paramount Kids television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-004/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"PARAMOUNT KIDS"},
 
 {"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/GULLI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
 
-{"descriptionMoz":"Okoo television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/FRANCE_4/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzNzlf/okoo.png","titleMoz":"OKOO TV"},
+{"descriptionMoz":"ToonCast television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-002/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzNzlf/okoo.png","titleMoz":"TOONCAST TV"},
 
 {"descriptionMoz":"Rakuten TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","titleMoz":"RAKUTEN TV"},
 
@@ -56,3 +56,13 @@
 {"descriptionMoz":"Supertoons kids TV 1 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTc4MzVf/Supertoons1.jpg","titleMoz":"SUPERTOONS 1 TV"},
 
 {"descriptionMoz":"Supertoons kids TV 2 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTc4MzZf/Supertoons2s.jpeg","titleMoz":"SUPERTOONS 2 TV"}]}]}
+
+
+
+{"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TELETOON_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
+
+{"descriptionMoz":"Okoo television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/FRANCE_4/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzNzlf/okoo.png","titleMoz":"OKOO TV"},
+
+{"descriptionMoz":"PBS KIDS TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTJf/pbskids.jpeg","titleMoz":"PBS KIDS TV"},
+
+{"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.188.188.235/live/jimjam/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS TV"},
