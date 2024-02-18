@@ -5,6 +5,8 @@
 
 {"descriptionMoz":"Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg","titleMoz":"RYAN AND FRIENDS TV"},
 
+{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
+
 {"descriptionMoz":"Kids Movies television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4371"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDS MOVIES"},
 
 {"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://38.96.178.201/live/ComedyCentral/index.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"NRJ 12 TV"},
@@ -18,6 +20,8 @@
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/DisneyXD/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY USA"},
 
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/Disney/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY HD"},
+
+{"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
 
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
@@ -47,8 +51,6 @@
 
 {"descriptionMoz":"Watch It kids TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/cl/d9CqHkxGAirngok0q4cWK/314x234_447601_4_f.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY0NjQxNTlf/watchkids.jpg","titleMoz":"WATCH IT KIDS"},
 
-{"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/GULLI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
-
 {"descriptionMoz":"Nicktoons TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/50/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png","titleMoz":"NICKTOONS TV"},
 
 {"descriptionMoz":"Ketnet Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://190.61.91.101:1234/play/a00d/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODM0MzUyNzRf/ketnet.png","titleMoz":"KETNET JUNIOR"},
@@ -64,8 +66,6 @@
 {"descriptionMoz":"MoonBug TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://49.12.123.148:8989/1012/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ1MzFf/moonbug.jpeg","titleMoz":"MOONBUG TV"},
 
 {"descriptionMoz":"Tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/tivi5_enc/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTk0ODlf/TiVi5MondePlus.webp","titleMoz":"TIVI 5"},
-
-{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TIJI/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
 
 {"descriptionMoz":"Okoo television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/FRANCE_4/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzNzlf/okoo.png","titleMoz":"OKOO TV"},
 
