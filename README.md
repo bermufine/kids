@@ -7,9 +7,11 @@
 
 {"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
 
+{"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
+
 {"descriptionMoz":"Kids Movies television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4371"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDS MOVIES"},
 
-{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://38.96.178.201/live/ComedyCentral/index.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"NRJ 12 TV"},
+{"descriptionMoz":"Njr 12 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceMoz":["http://38.96.178.201/live/ComedyCentral/index.m3u8"],"subtitleMoz":"By Channel ","thumbMoz":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleMoz":"NRJ 12 TV"},
 
 {"descriptionMoz":"DreamWorks TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-099/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzZf/dreamworkKids.jpg","titleMoz":"DREAMWORKS TV"},
 
@@ -20,8 +22,6 @@
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/DisneyXD/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY USA"},
 
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/Disney/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY HD"},
-
-{"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
 
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
