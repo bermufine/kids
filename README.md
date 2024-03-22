@@ -3,6 +3,8 @@
 
 {"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
 
+{"descriptionMoz":"Njr 12 TV est une chaine televisee qui diffuse les contenus en caractères poir enfants et autres....","sourceMoz":["http://185.177.125.251:8080/nrj12/index.m3u8"],"subtitleMoz":"By Channel ","thumbMoz":"https://od.lk/s/M18yODk1MDM5ODNf/NRJ12HD.png","titleMoz":"NRJ 12 TV"},
+
 {"descriptionMoz":"Cartoon Network TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/CartoonNetwork/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2NTJf/cartoonNetworktwo.jpeg","titleMoz":"CARTOON NETWORK"},
 
 {"descriptionMoz":"Boomerang HDTV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.177.125.251:8080/Boomerang/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2NTJf/cartoonNetworktwo.jpeg","titleMoz":"BOOMERANG HD"},
@@ -14,8 +16,6 @@
 {"descriptionMoz":"Kids Movies television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4371"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDS MOVIES"},
 
 {"descriptionMoz":"Kiddi Winks television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg","titleMoz":"KIDDI WINKS"},
-
-{"descriptionMoz":"Njr 12 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceMoz":["http://38.96.178.201/live/ComedyCentral/index.m3u8"],"subtitleMoz":"By Channel ","thumbMoz":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleMoz":"NRJ 12 TV"},
 
 {"descriptionMoz":"DreamWorks TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-099/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzZf/dreamworkKids.jpg","titleMoz":"DREAMWORKS TV"},
 
