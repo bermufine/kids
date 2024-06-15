@@ -1,9 +1,15 @@
 # kids
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/tiji/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
+
+{"descriptionMoz":"Gulli Africa television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/gulli/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxMjkwMTVf/gulliafrica.jpg","titleMoz":"GULLI AFRICA"},
 
 {"descriptionMoz":"Gulli television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg","titleMoz":"GULLI TV"},
 
 {"descriptionMoz":"Sabrina Serie TV est une chaîne télévisée spécialisée aux enfants et autres...","sourceMoz":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d91f8235-755b-4e9c-8062-05d444de314d&serverSideAds=false"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTE4NzA3NTBf/sabrinatv.jpeg","titleMoz":"SABRIBA SERIE"},
+
+{"descriptionMoz":"Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/nickelodeon/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg","titleMoz":"NICKELODEON"},
+
+{"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/teletoon/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
 
 {"descriptionMoz":"Njr 12 TV est une chaine televisee qui diffuse les contenus en caractères poir enfants et autres....","sourceMoz":["http://185.177.125.251:8080/nrj12/index.m3u8"],"subtitleMoz":"By Channel ","thumbMoz":"https://od.lk/s/M18yODk1MDM5ODNf/NRJ12HD.png","titleMoz":"NRJ 12 TV"},
 
@@ -28,8 +34,6 @@
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/DisneyXD/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY USA"},
 
 {"descriptionMoz":"Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://38.96.178.201/live/Disney/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMjY3MDhf/disneyjunior.jpg","titleMoz":"DISNEY HD"},
-
-{"descriptionMoz":"Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-112/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg","titleMoz":"NICKELODEON"},
 
 {"descriptionMoz":"Paramount Kids television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-004/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzFf/paramountkids.png","titleMoz":"PARAMOUNT KIDS"},
 
@@ -66,7 +70,6 @@
 
 
 
-{"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://162.19.18.141:49214/TELETOON_PLUS/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
 
 {"descriptionMoz":"Canal J TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://41.215.252.18:8080/live/canalj_pixa/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYyMTQxOThf/canalj.jpeg","titleMoz":"CANAL J TV"},
 
