@@ -11,7 +11,11 @@
 
 {"descriptionMoz":"Sabrina Serie TV est une chaîne télévisée spécialisée aux enfants et autres...","sourceMoz":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d91f8235-755b-4e9c-8062-05d444de314d&serverSideAds=false"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTE4NzA3NTBf/sabrinatv.jpeg","titleMoz":"SABRIBA SERIE"},
 
+{"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/piwi/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS"},
+
 {"descriptionMoz":"Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/nickelodeon/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg","titleMoz":"NICKELODEON"},
+
+{"descriptionMoz":"Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/nickjr/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png","titleMoz":"NICK JUNIOR"},
 
 {"descriptionMoz":"Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/teletoon/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MDVf/teletoon.png","titleMoz":"TELETOON TV"},
 
@@ -32,8 +36,6 @@
 {"descriptionMoz":"NRJ 12 television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://livetv.ktv.zone/14/play.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk1MDM5ODNf/NRJ12HD.png","titleMoz":"NRJ 12 TV"},
 
 {"descriptionMoz":"Cartoon Network 2 TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-029/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2NTJf/cartoonNetworktwo.jpeg","titleMoz":"CARTOON NETWORK 2"},
-
-{"descriptionMoz":"Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-011/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"NICK JUNIOR"},
 
 {"descriptionMoz":"DreamWorks 2 est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-099/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzZf/dreamworkKids.jpg","titleMoz":"DREAMWORKS 2"},
 
@@ -93,4 +95,4 @@
 
 {"descriptionMoz":"Persiana Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://51.210.199.18/hls/stream.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMwNzA3ODNf/persianajunior.jpg","titleMoz":"PERSIANA JUNIOR"},
 
-{"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.188.188.235/live/jimjam/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS TV"},
+
