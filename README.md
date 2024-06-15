@@ -15,6 +15,8 @@
 
 {"descriptionMoz":"Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/piwi/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg","titleMoz":"PIWI PLUS"},
 
+{"descriptionMoz":"Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/nicktoons/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png","titleMoz":"NICKTOONS"},
+
 {"descriptionMoz":"Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/nickelodeon/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg","titleMoz":"NICKELODEON"},
 
 {"descriptionMoz":"Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/nickjr/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png","titleMoz":"NICK JUNIOR"},
