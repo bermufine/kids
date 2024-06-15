@@ -1,6 +1,8 @@
 # kids
 {"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Tiji television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://185.59.221.131:8081/live/tiji/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg","titleMoz":"TIJI TV"},
 
+{"descriptionMoz":"Tortue Ninja television est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050351-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8626ec32-5f10-4aef-bfdb-f5495f6d4ff1&serverSideAds=false"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxNTI3ODNf/tortues.jpeg","titleMoz":"TORTUE NINJA"},
+
 {"descriptionMoz":"Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg","titleMoz":"AFRO KIDS"},
 
 {"descriptionMoz":"Rakuten TV est une chaîne télévisée spécialisée aux enfants et autres.","sourceMoz":["https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png","titleMoz":"RAKUTEN KIDS"},
